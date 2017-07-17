@@ -7,3 +7,7 @@ class : com.afym.SoapMainCurl
 #### ReadEnvVariables
 Read all the environment variables on the system
 class : com.afym.ReadEnvVariables
+
+#### MultipleRequest
+Request multiple URLS in parallel
+class : com.afym.MultipleRequest
